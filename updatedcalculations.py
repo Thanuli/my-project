@@ -1,4 +1,4 @@
-number = 5
+number = 6
 square = number * number
 print("The square of", number, "is", square)
 
